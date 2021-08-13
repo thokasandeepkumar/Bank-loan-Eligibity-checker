@@ -1,0 +1,4 @@
+2021-02-18/19:33:57		Something went wrong in segration of Input and OP columns
+2021-02-20/21:29:45		Something went wrong in Array to Dataframe
+2021-02-20/21:31:55		Something went wrong in Array to Dataframe
+2021-02-20/21:33:56		Something went wrong in Array to Dataframe

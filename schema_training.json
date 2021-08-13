@@ -1,0 +1,25 @@
+{	"SampleFileName": "credit_ver10.csv",
+
+	"NumberofColumns" : 19,
+	"ColName": {
+		"Loan ID" : "object",
+		"Customer ID" : "object",
+		"Current Loan Amount" : "int",
+		"Term" : "object",
+		"Credit Score": " float",
+		"Annual Income": " float",
+		"Years in current job": "object",
+		"Home Ownership": "object",
+		"Purpose": "object",
+		"Monthly Debt": " float",
+		"Years of Credit History": " float",
+		"Months since last delinquent": " float",
+		"Number of Open Accounts": "int",
+		"Number of Credit Problems": "int",
+		"Current Credit Balance": " int",
+		"Maximum Open Credit": " float",
+		"Bankruptcies": " float",
+		"Tax Liens": " float",
+		"Loan Status" : "object"
+	}
+}
